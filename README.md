@@ -24,4 +24,4 @@ I constructed a weather API that offer both historical and forecast weather data
 <p align= "right">
 <img src="Montreal - Weather.png" height="50%" width="50%" /></p>
 
-(Sourcecode is in the description)
+(Sourcecode is in the repository folder)
